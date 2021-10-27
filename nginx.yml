@@ -4,4 +4,4 @@ services:
 
   public-nginx:
     image: nginx
-    container_name: nginx-test
+    container_name: nginx
